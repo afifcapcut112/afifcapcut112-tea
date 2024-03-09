@@ -1,34 +1,11 @@
 {
   "name": "afifcapcut112tea",
-<<<<<<< HEAD
-  "version": "1.55.3",
-=======
-  "version": "1.555.5",
->>>>>>> 91dd181 (first commit)
+  "version": "2.3.2",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {
-    "react": "^18",
-    "react-dom": "^18",
-    "next": "14.1.1"
-  },
-  "devDependencies": {
-    "typescript": "^5",
-    "@types/node": "^20",
-    "@types/react": "^18",
-    "@types/react-dom": "^18",
-    "autoprefixer": "^10.0.1",
-    "postcss": "^8",
-    "tailwindcss": "^3.3.0",
-    "eslint": "^8",
-    "eslint-config-next": "14.1.1"
-  },
-  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
-  "main": "postcss.config.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/afifcapcut112/afifcapcut112-tea"
