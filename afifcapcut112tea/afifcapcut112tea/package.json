@@ -1,6 +1,6 @@
 {
   "name": "afifcapcut112tea",
-  "version": "1.55.3",
+  "version": "1.5.2",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -27,7 +27,7 @@
   "main": "postcss.config.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/afifcapcut112/afifcapcut112-tea"
+    "url": "https://github.com/afifcapcut112/afifcapcut112-tea.git"
   },
   "author": "",
   "license": "ISC",
